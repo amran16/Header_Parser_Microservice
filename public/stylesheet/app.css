@@ -1,0 +1,29 @@
+
+body{
+  background: linear-gradient(to left, #EC6F66 , #F3A183); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: 'Cormorant Garamond', serif;
+  padding: 10px 50px 50px 50px;
+
+}
+
+h1{
+  font-size: 50px;
+}
+
+h3{
+  font-size: 35px;
+	text-decoration: underline;
+}
+
+.content{
+  font-size: 25px;
+  max-width: 1200px;
+}
+
+.content a, .content a:visited {
+	color: rgb(136, 64, 209);
+}
+
+.footer{
+  font-size: 20px;
+}
